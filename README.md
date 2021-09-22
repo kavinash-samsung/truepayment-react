@@ -1,6 +1,15 @@
 # Visit site here
 
-[Visit site](https://truepayments-d84e7.firebaseapp.com/)
+This is a Single page React Application created for learning purpose
+ 
+ ## Components Used Here
+ 
+  ### Navbar Component
+  ### Header Component
+  ### HowDoes It Work Component
+  ### About Component
+  ### Services Component
+  ### Contact Component
 
 # Getting Started with Create React App
 
