@@ -3,13 +3,14 @@
 This is a Single page React Application created for learning purpose
  
  ## Components Used Here
- 
-  ### Navbar Component
-  ### Header Component
-  ### HowDoes It Work Component
-  ### About Component
-  ### Services Component
-  ### Contact Component
+ Index|
+       App|
+          |--Navbar Component
+          |--Header Component
+          |--HowDoes It Work Component
+          |--About Component
+          |--Services Component
+          |--Contact Component
 
 # Getting Started with Create React App
 
